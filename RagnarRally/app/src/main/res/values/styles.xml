@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/RagnarOrange</item>
+        <item name="colorPrimaryDark">@color/RagnarBlack</item>
+        <item name="colorAccent">@color/AccentWhite</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:textColor">@color/RagnarBlack</item>
+    </style>
+
+    <style name="WordScramblerToolbar">
+        <item name="android:background">@color/RagnarOrange</item>
+        <item name="android:textColor">@color/RagnarBlack</item>
+    </style>
+
+    <style name="ApplicationStyle" parent="android:Theme">
+        <item name="android:button">@style/DefaultButton</item>
+    </style>
+
+    <style name="DefaultButton">
+        <item name="android:background">@color/RagnarBlack</item>
+        <item name="android:textColor">@color/RagnarOrange</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+
+
+</resources>

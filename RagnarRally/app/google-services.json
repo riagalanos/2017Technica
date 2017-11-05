@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "309934149483",
+    "firebase_url": "https://ragnarrally-ad5a6.firebaseio.com",
+    "project_id": "ragnarrally-ad5a6",
+    "storage_bucket": "ragnarrally-ad5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309934149483:android:f82c5f6c46977037",
+        "android_client_info": {
+          "package_name": "com.willpowered.ragnarrally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309934149483-o9fgmu256j2fsulmqf2a4pi6ec7i0ts2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.willpowered.ragnarrally",
+            "certificate_hash": "07ff898a4c707127ba19188458350c064801cebb"
+          }
+        },
+        {
+          "client_id": "309934149483-1dj5g9vmt9ckt9tgt73gfle1bj6dndsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClCDWsSqKjJCoZFzYsmPh7AqnaOOgxcpw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309934149483-1dj5g9vmt9ckt9tgt73gfle1bj6dndsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

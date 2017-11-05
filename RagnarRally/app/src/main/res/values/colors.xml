@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="RagnarOrange">#FF9900</color>
+    <color name="RagnarBlack">#000000</color>
+    <color name="AccentWhite">#FFFFFF</color>
+    <color name="LightGray">#e5e5e5</color>
+</resources>

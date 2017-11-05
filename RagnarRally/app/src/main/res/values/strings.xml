@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ragnar Roundup</string>
+    <string name="button_start">START</string>
+    <string name="button_login">JOIN</string>
+    <string name="button_join">LOGIN</string>
+    <string name="message_team_name">Team Name</string>
+    <string name="button_check_team">CREATE TEAM</string>
+
+
+</resources>
